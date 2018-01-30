@@ -1,7 +1,7 @@
 ---
 spring:
   profiles:
-    lucky-word: irish
+    lucky-word: Irish
   application:
     name: lab-3-client
   cloud:
